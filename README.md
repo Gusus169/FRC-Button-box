@@ -87,6 +87,20 @@ PCB Back-
 
 
 
+# BOM
+
+| Qty | Component                | Value / Part Number        |
+| --- | ------------------------ | -------------------------- |
+| 1   | OLED Display             | SSD1306 0.91" 128×32       |
+| 1   | LED                      | 3mm LED                    |
+| 30  | Diode                    | 1N4148W                    |
+| 6   | Terminal Block Connector | Phoenix 1792944            |
+| 1   | Resistor                 | 330 Ω                      |
+| 1   | Microcontroller          | Raspberry Pi Pico (RP2040) |
+
+
+
+
 
 # License
 
